@@ -1,0 +1,4 @@
+﻿  3-4 Project One.cpp
+C:\Users\ebend\source\repos\3-4 Project One\3-4 Project One\3-4 Project One.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ebend\source\repos\3-4 Project One\3-4 Project One\3-4 Project One.cpp(207,28): warning C4018: '>': signed/unsigned mismatch
+  3-4 Project One.vcxproj -> C:\Users\ebend\source\repos\3-4 Project One\Debug\3-4 Project One.exe
